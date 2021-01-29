@@ -1,0 +1,6 @@
+UIpages/LoginPage.java
+ UIpages.LoginPage
+steps/LoginPageSteps.java
+ steps.LoginPageSteps
+appTest/LoginPageTest.java
+ appTest.LoginPageTest
